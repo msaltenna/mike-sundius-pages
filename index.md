@@ -17,3 +17,7 @@ title: Mike's Saltenna Engineering Page
   + 
   
 
+---
+title: "periodic thought"
+date: 2019-01-20
+---
